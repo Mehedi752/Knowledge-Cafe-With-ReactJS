@@ -1,0 +1,32 @@
+[  
+    {  
+        "id": "001",  
+        "cover_picture": "../images/img-1.png",  
+        "title": "How to get your first job as a self-taught programmer",  
+        "author": "Mr. Raju",  
+        "author_image": "../images/profile-1.png",  
+        "posted_date": "Mar 14",  
+        "reading_time": "5",  
+        "hashtags": ["#beginners", "#programming", "#coding"]  
+    },  
+    {  
+        "id": "002",  
+        "cover_picture": "../images/img-2.png",  
+        "title": "How to get your first job as a self-taught programmer",  
+        "author": "Mrs. Setara",  
+        "author_image": "../images/profile-2.png",  
+        "posted_date": "Apr 20",  
+        "reading_time": "10",  
+        "hashtags": ["#beginners", "#programming", "#coding"]  
+    },  
+    {  
+        "id": "003",  
+        "cover_picture": "../images/img-3.png",  
+        "title": "How to get your first job as a self-taught programmer",  
+        "author": "Mina Mostofa",  
+        "author_image": "../images/profile-3.png",  
+        "posted_date": "Nov 21",  
+        "reading_time": "12",  
+        "hashtags": ["#beginners", "#programming", "#coding"]  
+    }  
+]  
